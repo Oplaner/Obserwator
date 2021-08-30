@@ -18,3 +18,19 @@ An iOS application responsible for detecting road signs and displaying the curre
 ![Screenshot 4](https://user-images.githubusercontent.com/23143311/131268387-9d7e1eb1-5bfd-4b7b-8a5f-5e58a6c791c7.png)
 ![Screenshot 5](https://user-images.githubusercontent.com/23143311/131268389-a878296d-67b0-4f6c-bbcd-4b03f048da4e.png)
 ![Screenshot 6](https://user-images.githubusercontent.com/23143311/131268391-137d3b9b-a06b-4c77-8fdf-fa153be0c0be.png)
+
+## Osiągi | Performance
+
+🇵🇱
+
+Aplikację przetestowano na iPhonie 8 podczas jazdy samochodem:
+* rozpoznawanie obiektów na obrazie: 94,39%
+* rozpoznawanie tekstu na obrazie: 83,17%
+* ogólna skuteczność: 78,50%
+
+🇬🇧
+
+The application was tested on an iPhone 8 during a car drive:
+* detecting objects in image: 94,39%
+* recognizing text in image: 83,17%
+* overall effectiveness: 78,50%
